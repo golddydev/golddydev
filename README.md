@@ -3,8 +3,12 @@
 
 <h3 align="center">Learning programming especially in crypto space</h3>
 
-- `Who am I` A software engineer with interest at trending blockchain technology
+- `Who am I` A software engineer with interest at trending blockchain technology and functional programming
 
-- `Where am I` Cardano, Blockchain
+- `Where am I` Cardano & Bitcoin
 
-- `Uptime` 22 years
+- `Uptime` 22 years 🟢
+
+- `Favourite food` Sashimi & Sushi 🍣🥢
+
+- `Favourite sports` Ping-pong 🏓 & Tennis 🎾
