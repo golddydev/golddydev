@@ -7,7 +7,7 @@
 
 - `Where am I` Cardano & Bitcoin
 
-- `Uptime` 22 years 🟢
+- `Uptime` 23 years 🟢
 
 - `Favourite food` Sashimi & Sushi 🍣🥢
 
