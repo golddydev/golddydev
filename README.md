@@ -5,7 +5,7 @@
 
 - `Who am I` A software engineer with interest at trending blockchain technology and functional programming
 
-- `Where am I` Cardano & Bitcoin
+- `Where am I` Cardano & Bitcoin (Learning other blockchains)
 
 - `Uptime` 23 years 🟢
 
