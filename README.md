@@ -8,8 +8,6 @@
 
 - `Which blockchains am I at` Cardano & Bitcoin & Sui (Learning other blockchains)
 
-- `Uptime` 23 years 🟢
-
 - `Favourite food` Sashimi & Sushi 🍣🥢
 
 - `Favourite sports` Ping-pong 🏓 & Tennis 🎾
