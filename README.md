@@ -10,4 +10,4 @@
 
 - `Favourite food` Sashimi & Sushi 🍣🥢
 
-- `Favourite sports` Ping-pong 🏓 & Tennis 🎾
+- `Favourite sports` Badminton 🏸 & Tennis 🎾
